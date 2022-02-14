@@ -10,12 +10,9 @@
 
 ### Let's stay connected:
 
-[![website](./img/twitter-light.svg)](https://www.twitter.com/KawasMoe/)
-&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/KawasMoe)
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mohamad-kawas-409418230/)
-&nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/mkkawas/)
-
 
 ### Languages and Tools:
 
