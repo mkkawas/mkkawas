@@ -12,7 +12,7 @@
 
 [![website](./img/twitter-light.svg)](https://twitter.com/KawasMoe)
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mohamad-kawas-409418230/)
-[![website](https://logowik.com/content/uploads/images/instagram-glyph.jpg)](https://www.instagram.com/mkkawas/)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/mkkawas/)
 
 ### Languages and Tools:
 
